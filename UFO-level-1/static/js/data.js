@@ -9,7 +9,7 @@ var data = [{
   },
   {
     datetime: "1/1/2010",
-    city: "bonita",
+    city: "bonita", 
     state: "ca",
     country: "us",
     shape: "light",
